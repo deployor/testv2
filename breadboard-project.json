@@ -16,7 +16,7 @@
     "group-arduino-uno": [
       {
         "name": "sketch.ino",
-        "content": ""
+        "content": "test"
       }
     ]
   },
