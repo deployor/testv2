@@ -1,0 +1,561 @@
+{
+  "format": "velxio-project",
+  "version": 1,
+  "boards": [
+    {
+      "id": "arduino-uno",
+      "boardKind": "arduino-uno",
+      "x": 80,
+      "y": 80,
+      "activeFileGroupId": "group-arduino-uno",
+      "languageMode": "arduino",
+      "serialBaudRate": 0
+    }
+  ],
+  "fileGroups": {
+    "group-arduino-uno": [
+      {
+        "name": "sketch.ino",
+        "content": ""
+      }
+    ]
+  },
+  "components": [
+    {
+      "id": "breadboard_full_kit_1",
+      "metadataId": "breadboard-full",
+      "x": 520,
+      "y": 80,
+      "properties": {}
+    },
+    {
+      "id": "led_yellow_kit_1",
+      "metadataId": "led-yellow",
+      "x": 80,
+      "y": 620,
+      "properties": {
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "led_yellow_kit_2",
+      "metadataId": "led-yellow",
+      "x": 250,
+      "y": 620,
+      "properties": {
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "led_yellow_kit_3",
+      "metadataId": "led-yellow",
+      "x": 420,
+      "y": 620,
+      "properties": {
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "led_yellow_kit_4",
+      "metadataId": "led-yellow",
+      "x": 590,
+      "y": 620,
+      "properties": {
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "led_yellow_kit_5",
+      "metadataId": "led-yellow",
+      "x": 760,
+      "y": 620,
+      "properties": {
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "led_red_kit_1",
+      "metadataId": "led-red",
+      "x": 930,
+      "y": 620,
+      "properties": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "led_red_kit_2",
+      "metadataId": "led-red",
+      "x": 1100,
+      "y": 620,
+      "properties": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "led_red_kit_3",
+      "metadataId": "led-red",
+      "x": 1270,
+      "y": 620,
+      "properties": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "led_red_kit_4",
+      "metadataId": "led-red",
+      "x": 80,
+      "y": 770,
+      "properties": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "led_red_kit_5",
+      "metadataId": "led-red",
+      "x": 250,
+      "y": 770,
+      "properties": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "led_blue_kit_1",
+      "metadataId": "led-blue",
+      "x": 420,
+      "y": 770,
+      "properties": {
+        "color": "blue"
+      }
+    },
+    {
+      "id": "led_blue_kit_2",
+      "metadataId": "led-blue",
+      "x": 590,
+      "y": 770,
+      "properties": {
+        "color": "blue"
+      }
+    },
+    {
+      "id": "led_blue_kit_3",
+      "metadataId": "led-blue",
+      "x": 760,
+      "y": 770,
+      "properties": {
+        "color": "blue"
+      }
+    },
+    {
+      "id": "led_blue_kit_4",
+      "metadataId": "led-blue",
+      "x": 930,
+      "y": 770,
+      "properties": {
+        "color": "blue"
+      }
+    },
+    {
+      "id": "led_blue_kit_5",
+      "metadataId": "led-blue",
+      "x": 1100,
+      "y": 770,
+      "properties": {
+        "color": "blue"
+      }
+    },
+    {
+      "id": "ir_transmitter_kit_1",
+      "metadataId": "ir-transmitter",
+      "x": 1270,
+      "y": 770,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_1",
+      "metadataId": "resistor-220",
+      "x": 80,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_2",
+      "metadataId": "resistor-220",
+      "x": 250,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_3",
+      "metadataId": "resistor-220",
+      "x": 420,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_4",
+      "metadataId": "resistor-220",
+      "x": 590,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_5",
+      "metadataId": "resistor-220",
+      "x": 760,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_6",
+      "metadataId": "resistor-220",
+      "x": 930,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_7",
+      "metadataId": "resistor-220",
+      "x": 1100,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_220_kit_8",
+      "metadataId": "resistor-220",
+      "x": 1270,
+      "y": 920,
+      "properties": {}
+    },
+    {
+      "id": "resistor_1k_kit_1",
+      "metadataId": "resistor-1k",
+      "x": 80,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_1k_kit_2",
+      "metadataId": "resistor-1k",
+      "x": 250,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_1k_kit_3",
+      "metadataId": "resistor-1k",
+      "x": 420,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_1k_kit_4",
+      "metadataId": "resistor-1k",
+      "x": 590,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_1k_kit_5",
+      "metadataId": "resistor-1k",
+      "x": 760,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_10k_kit_1",
+      "metadataId": "resistor-10k",
+      "x": 930,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_10k_kit_2",
+      "metadataId": "resistor-10k",
+      "x": 1100,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_10k_kit_3",
+      "metadataId": "resistor-10k",
+      "x": 1270,
+      "y": 1070,
+      "properties": {}
+    },
+    {
+      "id": "resistor_10k_kit_4",
+      "metadataId": "resistor-10k",
+      "x": 80,
+      "y": 1220,
+      "properties": {}
+    },
+    {
+      "id": "resistor_10k_kit_5",
+      "metadataId": "resistor-10k",
+      "x": 250,
+      "y": 1220,
+      "properties": {}
+    },
+    {
+      "id": "resistor_10k_kit_6",
+      "metadataId": "resistor-10k",
+      "x": 420,
+      "y": 1220,
+      "properties": {}
+    },
+    {
+      "id": "ir_receiver_kit_1",
+      "metadataId": "ir-receiver",
+      "x": 590,
+      "y": 1220,
+      "properties": {}
+    },
+    {
+      "id": "ir_remote_kit_1",
+      "metadataId": "ir-remote",
+      "x": 598.8684255408396,
+      "y": 1874.5970212403395,
+      "properties": {}
+    },
+    {
+      "id": "vibration_switch_kit_1",
+      "metadataId": "vibration-switch",
+      "x": 930,
+      "y": 1220,
+      "properties": {}
+    },
+    {
+      "id": "vibration_switch_kit_2",
+      "metadataId": "vibration-switch",
+      "x": 1100,
+      "y": 1220,
+      "properties": {}
+    },
+    {
+      "id": "thermistor_kit_1",
+      "metadataId": "thermistor",
+      "x": 1270,
+      "y": 1220,
+      "properties": {
+        "temperature": 25
+      }
+    },
+    {
+      "id": "thermistor_kit_2",
+      "metadataId": "thermistor",
+      "x": 80,
+      "y": 1370,
+      "properties": {
+        "temperature": 25
+      }
+    },
+    {
+      "id": "thermistor_kit_3",
+      "metadataId": "thermistor",
+      "x": 250,
+      "y": 1370,
+      "properties": {
+        "temperature": 25
+      }
+    },
+    {
+      "id": "buzzer_passive_kit_1",
+      "metadataId": "buzzer-passive",
+      "x": 420,
+      "y": 1370,
+      "properties": {}
+    },
+    {
+      "id": "buzzer_active_kit_1",
+      "metadataId": "buzzer-active",
+      "x": 590,
+      "y": 1370,
+      "properties": {}
+    },
+    {
+      "id": "74hc595_kit_1",
+      "metadataId": "74hc595",
+      "x": 760,
+      "y": 1370,
+      "properties": {
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "lm35dz_kit_1",
+      "metadataId": "lm35dz",
+      "x": 930,
+      "y": 1357.1223624286902,
+      "properties": {
+        "temperature": 25
+      }
+    },
+    {
+      "id": "pushbutton_kit_1",
+      "metadataId": "pushbutton",
+      "x": 1100,
+      "y": 1370,
+      "properties": {}
+    },
+    {
+      "id": "pushbutton_kit_2",
+      "metadataId": "pushbutton",
+      "x": 1270,
+      "y": 1370,
+      "properties": {}
+    },
+    {
+      "id": "pushbutton_kit_3",
+      "metadataId": "pushbutton",
+      "x": 80,
+      "y": 1520,
+      "properties": {}
+    },
+    {
+      "id": "pushbutton_kit_4",
+      "metadataId": "pushbutton",
+      "x": 250,
+      "y": 1520,
+      "properties": {}
+    },
+    {
+      "id": "potentiometer_kit_1",
+      "metadataId": "potentiometer",
+      "x": 420,
+      "y": 1520,
+      "properties": {}
+    },
+    {
+      "id": "lcd1602_kit_1",
+      "metadataId": "lcd1602",
+      "x": 590,
+      "y": 1520,
+      "properties": {}
+    },
+    {
+      "id": "lcd1602_i2c_kit_1",
+      "metadataId": "lcd1602-i2c",
+      "x": 863.4131543053251,
+      "y": 1946.307707400543,
+      "properties": {}
+    },
+    {
+      "id": "rc522_rfid_kit_1",
+      "metadataId": "rc522-rfid",
+      "x": 930,
+      "y": 1520,
+      "properties": {}
+    },
+    {
+      "id": "water_level_sensor_kit_1",
+      "metadataId": "water-level-sensor",
+      "x": 1098.9268635357241,
+      "y": 1520,
+      "properties": {
+        "level": 0
+      }
+    },
+    {
+      "id": "membrane_keypad_kit_1",
+      "metadataId": "membrane-keypad",
+      "x": 1270,
+      "y": 1520,
+      "properties": {}
+    },
+    {
+      "id": "uln2003_driver_kit_1",
+      "metadataId": "uln2003-driver",
+      "x": 80,
+      "y": 1670,
+      "properties": {}
+    },
+    {
+      "id": "dht11_kit_1",
+      "metadataId": "dht11",
+      "x": 250,
+      "y": 1670,
+      "properties": {
+        "temperature": 25,
+        "humidity": 50
+      }
+    },
+    {
+      "id": "7segment_kit_1",
+      "metadataId": "7segment",
+      "x": 420,
+      "y": 1670,
+      "properties": {}
+    },
+    {
+      "id": "7segment_4digit_kit_1",
+      "metadataId": "7segment-4digit",
+      "x": 557.2881810018253,
+      "y": 1701.8509816561175,
+      "properties": {
+        "rotation": 0
+      }
+    },
+    {
+      "id": "analog_joystick_kit_1",
+      "metadataId": "analog-joystick",
+      "x": 789.5059416632865,
+      "y": 1771.9590950303527,
+      "properties": {}
+    },
+    {
+      "id": "relay_1ch_kit_1",
+      "metadataId": "relay-1ch",
+      "x": 922.4880447500691,
+      "y": 1705.4135033211023,
+      "properties": {}
+    },
+    {
+      "id": "microphone_module_kit_1",
+      "metadataId": "microphone-module",
+      "x": 1100,
+      "y": 1670,
+      "properties": {
+        "soundLevel": 512
+      }
+    },
+    {
+      "id": "servo_kit_1",
+      "metadataId": "servo",
+      "x": 1270,
+      "y": 1670,
+      "properties": {}
+    },
+    {
+      "id": "stepper_motor_kit_1",
+      "metadataId": "stepper-motor",
+      "x": 80,
+      "y": 1820,
+      "properties": {}
+    },
+    {
+      "id": "dot_matrix_8x8_kit_1",
+      "metadataId": "dot-matrix-8x8",
+      "x": 308.2133165866024,
+      "y": 1815.7748399251661,
+      "properties": {}
+    },
+    {
+      "id": "ds1302_kit_1",
+      "metadataId": "ds1302",
+      "x": 420,
+      "y": 1820,
+      "properties": {}
+    }
+  ],
+  "wires": [],
+  "activeBoardId": "arduino-uno"
+}
