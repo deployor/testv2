@@ -20,7 +20,7 @@ Describe the circuit, firmware, and any important design decisions.
 
 Try it here: http://localhost:3000/share/8
 
-Video: http://localhost:3000/demo/8/de5bbef1-fc64-4108-9fe7-76bf654c7ed9.mp4
+Video: http://localhost:3000/demo/8/ee9bb484-ee32-4828-8e16-b7fdd2dca46c.mp4
 
 ## Wiring / Schematic
 
