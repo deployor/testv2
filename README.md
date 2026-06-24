@@ -20,7 +20,7 @@ Describe the circuit, firmware, and any important design decisions.
 
 Try it here: http://localhost:3000/share/8
 
-Add a photo/video of the physical build here after the kit arrives.
+Video: http://localhost:3000/demo/8/c5ab07c6-1e9c-4f59-b891-d3c2242406b6.mp4
 
 ## Wiring / Schematic
 
